@@ -66,9 +66,4 @@ The Docker container can be stopped by calling `docker stop gremlin-visualizer`.
 * Traverse in/out from the selected node
 
 ### 
-## Contributors
-* Umesh Jayasinghe (Github: prabushitha)
-
-## Something Missing?
-
-If you have new ideas to improve please create a issue and make a pull request
+## Inspired by https://github.com/prabushitha/gremlin-visualizer
